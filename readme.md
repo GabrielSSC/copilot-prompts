@@ -61,7 +61,7 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Vamos construir dois agentes no copilot que auxiliaram no planejamento da sua carreira em tecnologia, funcionando como um mentor. Agent 1 tem o papel de entevistador e o agent 2 tem o papel de planejador de carreira.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
