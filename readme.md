@@ -23,7 +23,7 @@
   <tr>
     <td>
         <p align="center">Expert</p>
-        <a href="[https://www.linkedin.com/in/felipe-me/](https://www.linkedin.com/in/gabriel-sampaio-66159926/)">
+        <a href="https://github.com/GabrielSSC">
         <img src="https://avatars.githubusercontent.com/u/138996666?v=4&size=64" alt="https://github.com/GabrielSSC"><br>
       </a>
     </td>
@@ -35,7 +35,7 @@
     👨‍💻 Entusiasta em tecnologia
     </p>
       <a 
-      href="[https://www.linkedin.com/in/felipe-me/](https://www.linkedin.com/in/gabriel-sampaio-66159926/)" 
+      href="https://www.linkedin.com/in/gabriel-sampaio-66159926/" 
       align="center">
            <img 
             align="center" 
