@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>IA Mentor de Carreira - Criando seu roteiro de Carreira</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -24,18 +24,18 @@
     <td>
         <p align="center">Expert</p>
         <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <img src="https://avatars.githubusercontent.com/u/138996666?v=4&size=64" alt="https://github.com/GabrielSSC"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎉 3y trabalhando com tecnologia.
       <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
+     🌟 Scrum Master na CEF
       <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
+    👨‍💻 Entusiasta em tecnologia
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="[https://www.linkedin.com/in/felipe-me/](https://www.linkedin.com/in/gabriel-sampaio-66159926/)" 
       align="center">
            <img 
             align="center" 
@@ -43,7 +43,7 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+        <a href= target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
