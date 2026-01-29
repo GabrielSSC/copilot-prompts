@@ -61,13 +61,13 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir dois agentes no copilot que auxiliaram no planejamento da sua carreira em tecnologia, funcionando como um mentor. Agent 1 tem o papel de entevistador e o agent 2 tem o papel de planejador de carreira.
+Vamos construir dois agentes no copilot que auxiliarão no planejamento da sua carreira em tecnologia, funcionando como um mentor. Agent 1 tem o papel de entevistador e o agent 2 tem o papel de planejador de carreira.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- [Interagir com ferramentas de IA] | [Básico]
+- [Interação com ferramentas de IA] | [Básico]
 
 - _Exemplo_:
 
@@ -77,23 +77,21 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
 - [Outros pré-requisitos, se aplicável]
 
-  - Refinar as respostas, dando contexto para IA, para que ele possa dar respostas mais assertivas
+  - Refinar as respostas, dando contexto para IA, para que ele possa dar respostas mais assertivas.
   
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
 - [Lista das habilidades principais a serem desenvolvidas]
 
-  - [Subhabilidades relacionadas, se aplicável]
-
-  - Melhorar os resultados extraídas das ferramentas de IA
+    - Melhorar os resultados extraídas das ferramentas de IA
 
 ## 🎯 Objetivos e Resultados Esperados
 
 Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-- Os agentes de IA proporcionarão ao usuário descobrir seu perfil profissional e criar roadmaps personalizados de carreira em tecnologia.
-- Além de se familiarizarem com as ferramentas de IA, os alunos poderão conhecer melhor os seus perfis e traçar planos de estudo para evoluírem ou iniciarem na carreira de tecnologia.
+- Os agentes de IA proporcionarão ao usuário refletir sobre seu perfil profissional e criar roadmaps personalizados de carreira em tecnologia.
+- Além de se familiarizarem com as ferramentas de IA, os usuários poderão conhecer melhor os seus perfis e traçar planos de estudo para evoluírem ou iniciarem na carreira de tecnologia.
 
 <!--START_SECTION:footer-->
 
