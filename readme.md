@@ -67,19 +67,18 @@ Vamos construir dois agentes no copilot que auxiliaram no planejamento da sua ca
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+- [Interagir com ferramentas de IA] | [Básico]
 
 - _Exemplo_:
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
+  - Copilot | Básico
+  - Formulação de prompts | Básico
   -
 
 - [Outros pré-requisitos, se aplicável]
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+  - Refinar as respostas, dando contexto para IA, para que ele possa dar respostas mais assertivas
+  
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
@@ -87,16 +86,14 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
   - [Subhabilidades relacionadas, se aplicável]
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+  - Melhorar os resultados extraídas das ferramentas de IA
 
 ## 🎯 Objetivos e Resultados Esperados
 
 Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+- Os agentes de IA proporcionarão ao usuário descobrir seu perfil profissional e criar roadmaps personalizados de carreira em tecnologia.
+- Além de se familiarizarem com as ferramentas de IA, os alunos poderão conhecer melhor os seus perfis e traçar planos de estudo para evoluírem ou iniciarem na carreira de tecnologia.
 
 <!--START_SECTION:footer-->
 
